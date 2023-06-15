@@ -1,0 +1,1 @@
+from MiniVGGNet.nn.conv.minivggnet import MiniVGGNet
