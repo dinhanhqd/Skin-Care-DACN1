@@ -30,11 +30,12 @@ d)	Xây dựng Model
 3.4. Kết quả
 
 ![image](https://github.com/dinhanhqd/Skin-Care-DACN1/assets/36772104/7f538f62-5b07-4344-841f-bd46d46e3ee8)
+
 ![image](https://github.com/dinhanhqd/Skin-Care-DACN1/assets/36772104/22c125fe-8fcc-488b-bae5-40ae0623c3f2)
 
 App
 
-![image](https://github.com/dinhanhqd/Skin-Care-DACN1/assets/36772104/0d1e75c1-7197-4747-ae0f-9ca1146e27fd)
+![image](https://github.com/dinhanhqd/Skin-Care-DACN1/assets/36772104/bcda5532-6740-4d70-bc41-6c1428feae7f)
 
 ![image](https://github.com/dinhanhqd/Skin-Care-DACN1/assets/36772104/20a0cb5b-2e84-4239-9d8e-64be430785ac)
 
