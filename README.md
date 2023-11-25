@@ -36,3 +36,6 @@ App
 
 ![image](https://github.com/dinhanhqd/Skin-Care-DACN1/assets/36772104/0d1e75c1-7197-4747-ae0f-9ca1146e27fd)
 
+![image](https://github.com/dinhanhqd/Skin-Care-DACN1/assets/36772104/20a0cb5b-2e84-4239-9d8e-64be430785ac)
+
+![image](https://github.com/dinhanhqd/Skin-Care-DACN1/assets/36772104/5fee3b39-7fe4-47ec-96d0-e7cc6df3b488)
